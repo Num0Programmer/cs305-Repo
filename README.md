@@ -1,5 +1,9 @@
 # Physics-based Player Controller
 
+## License
+
+This project is protected by a MIT License
+
 ## Overall goal
 
 Create a framework for Unity developers to easily integrate into their projects to have a base for player movement.
