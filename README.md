@@ -32,3 +32,5 @@ An arising problem is that the player object, while is able to stop relatively s
 ### Basis For A Solution
 
 The solution would be to control the force that will be applied to the player object before applying the force. This would mean taking into account the potential velocity the player could reach - the terminalVelocity - and the current velocity. Then we can use this insight to limit how much force to put behind the player object for this frame. The idea is to have a movement system that will, initially, let the player reach terminal velocity rather quickly, and subsequently slow down to a velocity of 0 when the player has ceased giving input. This will also be the basis for the user to begin customizing the movement calculations to caiter the movement to the game's overall experience it will provide to the player.
+
+Zack was here
