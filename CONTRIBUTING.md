@@ -1,3 +1,3 @@
 # CONTRIBUTORS
-Zachary Bryant
-Cameron Montesano
+- Zachary Bryant
+- Cameron Montesano
